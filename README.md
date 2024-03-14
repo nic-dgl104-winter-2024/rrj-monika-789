@@ -43,4 +43,32 @@ https://en.wikibooks.org/wiki/Haskell
 
 https://www.haskell.org/documentation/
 
+
+## Activity 2:Write a user story
+
+### User Stories
+
+* As a user, I can see my recent video calls, including who I talked to and how long we chatted.
+* As a user, I can see a list of participants in the ongoing video call and have the option to add participants as needed.
+* As a user, I can do things during the call, like mute myself, turn my camera off or on and, switch the camera front or back.
+* As a user, I can share pictures, videos, or files while we're on the call.
+* As a user, I can let others see what's on my screen, which is handy for showing presentations or helping with tech problems.
+
+### Acceptance criteria
+* Group call-
+     Users with appropriate permissions should be able to remove participants from the call.
+* Share stuff-
+    The sharing feature should support a variety of file formats and sizes.
+
+
+## Choose a language for Community Code
+
+I've chosen JavaScript for our community code project as it aligns with my current semester's coursework. The language is new to me, and I believe working on it will enhance my understanding of JavaScript as I progress through my course. I'm excited about the opportunity to learn and grow in this programming language.
+
+
+## Star GitHub topics and repositories of interest
+
+
+  
+
  
