@@ -68,7 +68,28 @@ I've chosen JavaScript for our community code project as it aligns with my curre
 
 ## Star GitHub topics and repositories of interest
 
+I visited GitHub Topics and I've starred topics that are perfect for beginners diving into JavaScript basics, especially those focused on project-based learning and first-contributions.
+* https://github.com/learning-zone/javascript-basics
+* https://github.com/GitbookIO/javascript
+* https://github.com/turingschool-examples/javascript-foundations
+* https://github.com/CommandShiftHQ/javascript-basics
 
-  
 
+###  Week 9
+
+## Activity 1: Read the Community Code Assignment
+
+According to the guidelines of the Community Code Assignment, there are certain steps we should follow before contributing to a community code project. Firstly, we need to find a project that matches our skills and interests. Participating in an open-source project provides an opportunity to learn from professionals and work for real-world development companies. It also allows us to be a part of a community where people of all skill levels collaborate, exchange ideas, and strive to improve things. We should start by examining the open issues on the project's GitHub page. These issues require attention such as fixing bugs or adding new features. We can offer our support by doing things such as writing documentation, reporting issues, suggesting improvements, or even fixing problems ourselves. By following these steps, we can make a meaningful contribution to the open-source community while enhancing our skills and knowledge as a developer.
+
+## Activity 2: Read the Research and Reflection Guide
+
+I looked at the instructions provided in the readme.md file. It showed me how to organize my journal entries for each week's activities and what details to include at the end of the course. It gave me clear, step-by-step directions on how to tackle the project in small parts.
+
+
+## Activity 3: How to Contribute to Open Source
+
+Contributing to open-source projects is a great way to improve your software skills and connect with a community of like-minded individuals. To get started, you should check out the project's documentation, especially the README file. This file contains valuable information about the project's objectives, features, and how to participate. It also includes instructions, coding standards, and best practices for contributing to ensure that your work meets the project's quality standards and criteria, avoiding unnecessary work. Reading the documentation helps you identify which tasks or issues have already been addressed and which ones still need attention, providing opportunities to contribute. Remember that contributing is not just about writing code; you can also help by updating documentation, reporting issues, or assisting others with their code. This guide will teach you how to find suitable tasks and projects with supportive communities, making it easier for you to get involved and make a difference.
+
+
+## Activity 4: Find Potential Projects to Contribute to
  
