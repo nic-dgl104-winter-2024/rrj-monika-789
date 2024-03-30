@@ -88,11 +88,7 @@ function ResetButtonsState()
 
 ### Code review and Outcomes:
 
-
-
-
-
-
+After receiving feedback from a classmate during a code review, it was pointed out that the comment stating "// Disable the button" appeared to be inaccurate as the subsequent code sets the disabled property of each button to false, effectively enabling the buttons instead of disabling them. As a result of this feedback, adjustments were likely made to the comment to accurately reflect the code's behavior. Additionally, the suggestion to include code changes directly from the .js file in a pull request (PR) was likely implemented, simplifying the code review process and enabling clearer communication among collaborators. Overall, the feedback contributed to improved accuracy and efficiency in code documentation and review practices.
 
 
 ### Reflection:
@@ -113,10 +109,46 @@ and maintenance. Finally, considering potential enhancements to further improve 
 game's continued success.
 
 
-### Reference :
+### Reference:
 
 * [MDN Web Docs] (https://developer.mozilla.org/en-US/docs/Web)
 * [Stack Overflow] (https://stackoverflow.com/)
+
+
+
+
+
+
+## Part 2: pattern Library Contribution :
+
+### Read through pattern library issues:
+
+I engaged in an activity during our class where I reviewed all the available issues in the repository and decided to pursue the Lua implementation for the Observer pattern (#13). Since I aimed to explore a new programming language, this issue seemed ideal for me to undertake. I made a comment on the issue titled 'Add Lua implementation for Observer pattern #13' and requested to assign it to myself. My intention was to independently write code and develop a small project to demonstrate and explain the fundamental concepts of Lua. Upon completion, I submitted a pull request.
+
+
+### Contribute to Pattern-library:
+
+I began contributing to the Pattern-library project by tackling an assigned issue focused on implementing and explaining the Observer pattern in Lua. To start, I created a copy of the pattern-library repository called a 'fork.' You can find my fork [here](https://github.com/monika-789/pattern-library/tree/Monika-dev-branch/patterns/Behavioral/Observal/Lua). Since Lua's Observer pattern was new to me, I researched online and found helpful references to understand it better. For my demonstration, I decided to write code for a simple project using the GameSubject example. After completing the code, I submitted my first pull request (PR) for review.
+
+
+### Code Review:
+
+I received some helpful feedback. They suggested adding more comments at the top of methods to explain their intended behavior, especially for those new to the pattern. Additionally, they recommended removing unnecessary print statements to avoid confusion and clutter in the code. To improve clarity in the score function, it was suggested to include the subject's name in the update message. There was also a question about the use of __index, prompting a need for further explanation. They advised separating the notify function from updateScore and suggested triggering notify on state updates to reflect changes, which may in turn call updateScore as needed. Lastly, they appreciated the existing comments and suggested adding similar ones to enhance understanding throughout the code. 
+
+Following the implementation of these changes, I submitted another pull request, which was promptly accepted and merged into the main repository. This signifies that the feedback provided by my classmates was beneficial in improving the quality of the code. 
+
+
+### Reflections:
+
+Initially, I expressed my interest in contributing to the project and was tasked with researching and implementing the Observer pattern in Lua. My focus was on understanding the principles and basic coding required for this pattern. After familiarizing myself with tutorials and documentation, I submitted a pull request to integrate my findings into the main pattern library repository. One of the major struggles I faced was finding suitable resources online, but thorough research helped me understand the concept comfortably. The initial code I submitted was a basic game subject code, which underwent refinement through code reviews to improve its quality. This experience underscores the value of working together, continuous learning, and being open to feedback in this assignment.
+
+
+### References:
+
+* Lua users wiki (https://lua-users.org/wiki/)
+* Stack Overflow (https://stackoverflow.com/)
+
+
 
 
 
