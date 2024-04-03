@@ -92,4 +92,65 @@ Contributing to open-source projects is a great way to improve our software skil
 
 
 ## Activity 4: Find Potential Projects to Contribute to
+
+* Project 1 : This project aims to create a responsive Rock, Paper, Scissors game using HTML, CSS, and JavaScript. HTML will structure the game layout, CSS will style it for visual appeal and responsiveness, and JavaScript will handle player input and game logic. This classic game will be enjoyable on any device, providing entertainment for users of all ages.
+
+  ![Screenshot 2024-04-03 005423](https://github.com/nic-dgl104-winter-2024/rrj-monika-789/assets/144393563/6ce7ae3f-0193-4b37-a28e-81d9a8af61e3)
+
+
+ *  Project 2 :
+
+
+
+
+
+
+*  Project 3 :
+
+
+
+
+
+
+## Activity 3 - IDENTIFY ISSUES TO SUPPORT
+
+* Issue 1
+
+Project - Rock-Paper-Scissors-Game
+
+Issue - [Disable buttons when deciding winner. #22](https://github.com/monika-789/rock-paper-scissors-game/tree/monika-dev-game)
+
+The issue identified is that when the buttons are rapidly clicked, multiple inputs can be registered for subsequent rounds before the current round is resolved. This can lead to unexpected behavior and disrupt the flow of the game.
+
+
+
+
+* Issue 2
+
+
+
+
+
+* Issue 3
+
+
+
+
+
+
+
+###  Week 10
+
+
+## Activity 1 - ASSESS EXTERNAL COMMUNITY CONTRIBUTION GUIDELINES
+
+
+
+
+
+
+
+
+
+
  
