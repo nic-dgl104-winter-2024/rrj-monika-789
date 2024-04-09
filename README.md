@@ -4,7 +4,7 @@
 
 ### Week 8
 
-## Activity 1:RESEARCH A NEW LANGUAGE
+## Activity 1:Research a New Language
 
 ### Haskell
 
@@ -93,32 +93,38 @@ Contributing to open-source projects is a great way to improve our software skil
 
 ## Activity 4: Find Potential Projects to Contribute to
 
-* Project 1 : This project aims to create a responsive Rock, Paper, Scissors game using HTML, CSS, and JavaScript. HTML will structure the game layout, CSS will style it for visual appeal and responsiveness, and JavaScript will handle player input and game logic. This classic game will be enjoyable on any device, providing entertainment for users of all ages.
+Task 1: Explore platforms like Good First Issue, Up for Grabs, and CodeTriage to find projects suitable for contributing to the JavaScript community.
+
+Task 2: Utilize the checklist to assess project suitability, resulting in the selection of three appropriate projects.
+
+Here are the projects I choose to contibute to
+
+* Project 1 :[Rock-paper-scissors-game](https://github.com/zetabug/rock-paper-scissors-game)
+  
+   This project aims to create a responsive Rock, Paper, Scissors game using HTML, CSS, and JavaScript. HTML will structure the game layout, CSS will style it for visual appeal and responsiveness, and JavaScript will handle player input and game logic. This classic game will be enjoyable on any device, providing entertainment for users of all ages.
 
   ![Screenshot 2024-04-03 005423](https://github.com/nic-dgl104-winter-2024/rrj-monika-789/assets/144393563/6ce7ae3f-0193-4b37-a28e-81d9a8af61e3)
 
 
- *  Project 2 :
+ *  Project 2 :[First-contributions](https://github.com/firstcontributions/first-contributions)
+
+   The project is a collaborative effort involving multiple individuals working together towards a common goal. Each contributor plays a vital role in the project's success, whether it's through coding, design, testing, or other tasks. The contributors file serves as a recognition platform, acknowledging their contributions and fostering a sense of community within the project.
+
+
+![Screenshot 2024-04-08 184113](https://github.com/nic-dgl104-winter-2024/rrj-monika-789/assets/144393563/b59538ea-26f6-4706-8b84-1c47c8d54ff0)
 
 
 
 
-
-
-*  Project 3 :
-
-
-
-
-
-
-## Activity 3 - IDENTIFY ISSUES TO SUPPORT
+## Activity 3: Identify Issues to Support
 
 * Issue 1
 
 Project - Rock-Paper-Scissors-Game
 
-Issue - [Disable buttons when deciding winner. #22](https://github.com/monika-789/rock-paper-scissors-game/tree/monika-dev-game)
+Issue - Disable buttons when deciding winner #22
+
+ URL- https://github.com/monika-789/rock-paper-scissors-game/tree/monika-dev-game
 
 The issue identified is that when the buttons are rapidly clicked, multiple inputs can be registered for subsequent rounds before the current round is resolved. This can lead to unexpected behavior and disrupt the flow of the game.
 
@@ -127,30 +133,142 @@ The issue identified is that when the buttons are rapidly clicked, multiple inpu
 
 * Issue 2
 
+ Project 2 :First-contributions
 
+ Issue - Contributors file is looking horrible #83248
+ 
+ URL- https://github.com/firstcontributions/first-contributions/issues/83248
 
+ The contributors file for the project appears messy and disorganized. This file is crucial as it lists all the individuals who have contributed to the project, showcasing their efforts and involvement. However, its current state is not reflecting the professionalism and dedication of the team.
 
-
+ 
 * Issue 3
 
+Project 2 :First-contributions
+
+Issue - Test for GitHub Foundations #82271
+
+URL- https://github.com/firstcontributions/first-contributions/issues/82271
+
+A user aims to contribute to an open-source project on GitHub by adding a text file stating their intention to practice contributing to such projects. The user seeks to gain experience in contributing to open-source projects by adding a text file with a specific message to a repository.
 
 
+### Reflection
 
-
+During this week's programming activity, I searched for projects that were suitable for my coding level. I focused on beginner-friendly issues that could be solved within the given time frame. To find such projects, I went through lists like Good First Issue, Up for Grabs, and CodeTriage. Eventually, I stumbled upon some repositories related to games like Rock-Paper-Scissors. Since I have some basic knowledge about JavaScript, I decided to work on solving issues in this repositories using it. I successfully identified and resolved a problem, which demonstrated my active participation in improving widely-used JavaScript libraries. In this task, I not only fixed a specific issue but also learned a lot about finding, analyzing, and solving software problems in open-source projects, which helped me grow as a developer. Overall, this week I looked for projects that matched my coding level and had beginner-friendly problems, which allowed me to come up with solutions and implement them on time.
 
 
 ###  Week 10
 
 
-## Activity 1 - ASSESS EXTERNAL COMMUNITY CONTRIBUTION GUIDELINES
+## Activity 1: Assess External Community Contribution Guidelines
+
+* Review the entire project to gather general information about it.
+  
+* Search for relevant contribution guidelines, such as CONTRIBUTING.md or similar documents.
+  
+* Identify the specific steps and processes required to contribute to the project, including how to submit a pull request and the workflow for contributing changes.
+  
+* Check for any issues present and request to be assigned to them if you think you can solve them. After solving the issue, apply for a Pull Request (PR), which will be accepted after review.
+  
+* Alternatively, if you find a bug or have ideas for improvements, open a new issue. Then, apply for a Pull Request (PR).
+  
+* Don't forget to add your name in the CONTRIBUTING.md file.
+
+
+
+## Activity 2: Contribute to External Community
+
+Earlier this week, I came across an issue that caught my attention and decided to dive into the research process. The issue I chose to explore was related to the licensing of open source code. I have taken the following steps to contribute to an external repository. Firstly, I forked the repository and stored it on my personal GitHub account. Then, I cloned the repository onto my local machine and created a new branch to keep my changes separate from the main branch. This makes collaboration easier and helps maintain better version control. 
+To better understand the issue, I researched online and found some helpful references
+
+You can find a complete list of tasks that I completed in [CONTRIBUTING.md](https://github.com/nic-dgl104-winter-2024/rrj-monika-789/blob/main/CONTRIBUTING.md)
+
+
+
+## Activity 3: Contribute to Pattern-Library
+
+This is my first time participating in an activity like this, especially when working on a new programming language. I chose to solve the issue in this pattern library by adding a Lua implementation for Observer pattern #13, which took a lot of time to research and solve. To contribute to this pattern library, I followed the same process as the external community. 
+
+You can find a complete list of tasks that I completed in [CONTRIBUTING.md](https://github.com/nic-dgl104-winter-2024/rrj-monika-789/blob/main/CONTRIBUTING.md)
+
+
+
+### Follow-up Questions and Reflections
+
+I went through the process of selecting an issue, creating branches, and making pull requests for the first time recently. My biggest challenge was finding suitable online resources, but with thorough research, I was able to grasp the concept.
+
+My focus was on understanding the principles and basic coding involved in the observer pattern, as well as understanding the objectives and guidelines of the external community task. To achieve this, I spent time familiarizing myself with tutorials and documentation. Once I had a comfortable understanding of the concept, I submitted a pull request to incorporate my findings into the main pattern library repository and submitted the solution of the external community project's issue into the contributing.md.
+
+This experience taught me the importance of collaboration, continuous learning, and being open to feedback in completing this assignment.
 
 
 
 
+### Week 11
+
+## Activity 1: Read through Pattern Library Issues
+
+I engaged in an activity during our class where I reviewed all the available issues in the repository and decided to pursue the Lua implementation for the Observer pattern (#13). Since I aimed to explore a new programming language, this issue seemed ideal for me to undertake. I made a comment on the issue titled 'Add Lua implementation for Observer pattern #13' and requested to assign it to myself. My intention was to independently write code and develop a small project to demonstrate and explain the fundamental concepts of Lua. Upon completion, I submitted a pull request.
+
+
+## Activity 2: Continue contributions to external community
+
+Detailed discussion of issues contributed to:
+
+I worked on a specific issue related to preventing multiple button clicks in my Rock, Paper, Scissors game. I explored different methods, including using the disabled attribute of HTML buttons and adding/removing event listeners.I found a solution by immediately disabling the buttons after a player makes a selection and re-enabling them after displaying the round outcome. This approach ensured that only one round is processed at a time, preventing confusion and unexpected results. I also looked into other websites and tutorials such as MDN Web Docs and Stack Overflow to gather insights and examples on how to handle button clicks and prevent multiple selections in JavaScript.
+
+Code review and Outcomes:
+After receiving feedback from a classmate during a code review, it was pointed out that the comment stating "// Disable the button" appeared to be inaccurate as the subsequent code sets the disabled property of each button to false, effectively enabling the buttons instead of disabling them. As a result of this feedback, adjustments were likely made to the comment to accurately reflect the code's behavior. Additionally, the suggestion to include code changes directly from the .js file in a pull request (PR) was likely implemented, simplifying the code review process and enabling clearer communication among collaborators. Overall, the feedback contributed to improved accuracy and efficiency in code documentation and review practices.
+
+
+### Reflections
+
+Upon reflection, the issue of preventing multiple button clicks was successfully resolved. Initially, the game experienced the problem of processing multiple rounds simultaneously when players clicked buttons rapidly, leading to confusion and unexpected outcomes. The roadblock faced was finding an effective way to disable the buttons temporarily after a player's selection until the current round was resolved. This was overcome by implementing the disableButton() function to disable the buttons immediately after a click, preventing additional selections until the current round was completed. Additionally, the ResetButtonsState() function ensured that the buttons were re-enabled after the round outcome was displayed, allowing for subsequent rounds to proceed smoothly. Through careful implementation and testing, the solution effectively addressed the issue, resulting in a more controlled and enjoyable gameplay experience for players.
 
 
 
+## Activity 3: Contribute to Pattern Library
+
+I began contributing to the Pattern-library project by tackling an assigned issue focused on implementing and explaining the Observer pattern in Lua. To start, I created a copy of the pattern-library repository called a 'fork.' You can find my fork here. Since Lua's Observer pattern was new to me, I researched online and found helpful references to understand it better. For my demonstration, I decided to write code for a simple project using the GameSubject example. After completing the code, I submitted my first pull request (PR) for review.
+
+
+### Follow Up Questions and Reflections:
+
+Yes, JavaScript is indeed capable of Object-Oriented Programming (OOP). It supports OOP to a significant extent, allowing developers to create objects, encapsulate data, and define behaviors using classes and prototypes.
+
+In addition to OOP, JavaScript is a multi-paradigm language, meaning it supports various programming paradigms. Apart from OOP, it also supports:
+
+* Procedural Programming: Writing code in a step-by-step manner, similar to how you might outline a procedure or a recipe.
+
+* Functional Programming: Emphasizing the use of pure functions and avoiding shared state, mutable data, and side-effects.
+
+* Prototype-based Programming: This is a distinctive feature of JavaScript where objects inherit from other objects directly.
+
+These paradigms give JavaScript developers flexibility in how they structure and design their code, allowing them to choose the most appropriate approach for their specific requirements.
 
 
 
- 
+### Week 12
+
+## Activity 1: Contribute to Pattern Library
+
+   Code Review:
+
+ I received some helpful feedback. They suggested adding more comments at the top of methods to explain their intended behavior, especially for those new to the pattern. Additionally, they recommended removing unnecessary print statements to avoid confusion and clutter in the code. To improve clarity in the score function, it was suggested to include the subject's name in the update message. There was also a question about the use of __index, prompting a need for further explanation. They advised separating the notify function from updateScore and suggested triggering notify on state updates to reflect changes, which may in turn call updateScore as needed. Lastly, they appreciated the existing comments and suggested adding similar ones to enhance understanding throughout the code.
+
+Following the implementation of these changes, I submitted another pull request, which was promptly accepted and merged into the main repository. This signifies that the feedback provided by my classmates was beneficial in improving the quality of the code.
+
+
+
+### Reflections
+Initially, I expressed my interest in contributing to the project and was tasked with researching and implementing the Observer pattern in Lua. My focus was on understanding the principles and basic coding required for this pattern. After familiarizing myself with tutorials and documentation, I submitted a pull request to integrate my findings into the main pattern library repository. One of the major struggles I faced was finding suitable resources online, but thorough research helped me understand the concept comfortably. The initial code I submitted was a basic game subject code, which underwent refinement through code reviews to improve its quality. This experience underscores the value of working together, continuous learning, and being open to feedback in this assignment.
+
+
+
+### References
+
+* [MDN Web Docs] (https://developer.mozilla.org/en-US/docs/Web)
+* [Stack Overflow] (https://stackoverflow.com/)
+* Lua users wiki (https://lua-users.org/wiki/)
+* Stack Overflow (https://stackoverflow.com/)
